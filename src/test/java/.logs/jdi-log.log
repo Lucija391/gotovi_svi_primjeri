@@ -1,0 +1,63 @@
+45:48.481 [com.codeborne.selenide.impl.WebDriverThreadLocalContainer:INFO]: No webdriver is bound to current thread: 1 - let's create a new webdriver
+45:48.536 [com.codeborne.selenide.impl.FileHelper:INFO]: Creating folder: C:\Users\Martin a ne Lucija\IdeaProjects\demo1\build\downloads\1611913548527_7256_1
+45:52.714 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 87.0.4280.88 (since Chrome 87 is installed in your machine)
+45:52.771 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+45:53.669 [io.github.bonigarcia.wdm.online.Downloader:INFO]: Downloading https://chromedriver.storage.googleapis.com/87.0.4280.88/chromedriver_win32.zip
+45:55.153 [io.github.bonigarcia.wdm.online.Downloader:INFO]: Extracting binary from compressed file chromedriver_win32.zip
+45:55.405 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Martin a ne Lucija\.m2\repository\webdriver\chromedriver\win32\87.0.4280.88\chromedriver.exe
+45:55.719 [com.codeborne.selenide.impl.FileHelper:INFO]: Creating folder: C:\Users\Martin a ne Lucija\IdeaProjects\demo1\build\reports\tests
+45:55.732 [com.codeborne.selenide.webdriver.AbstractDriverFactory:INFO]: Write webdriver logs to: C:\Users\Martin a ne Lucija\IdeaProjects\demo1\build\reports\tests\webdriver.1611913555730_7256_1.log
+46:11.49 [com.codeborne.selenide.webdriver.BrowserResizer:INFO]: Set browser size to 1366x768
+46:11.189 [com.codeborne.selenide.webdriver.WebDriverFactory:INFO]: BrowserName=chrome Version=87.0.4280.141 Platform=WINDOWS
+46:11.189 [com.codeborne.selenide.webdriver.WebDriverFactory:INFO]: Selenide v. 5.14.0
+46:11.189 [com.codeborne.selenide.webdriver.WebDriverFactory:INFO]: Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+46:11.189 [com.codeborne.selenide.drivercommands.CreateDriverCommand:INFO]: Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on WINDOWS (520fd77e25d8a1e35f1ac623519b657e)
+46:16.428 [com.codeborne.selenide.drivercommands.CloseDriverCommand:INFO]: Close webdriver: 27 -> ChromeDriver: chrome on WINDOWS (520fd77e25d8a1e35f1ac623519b657e)
+46:16.431 [com.codeborne.selenide.impl.FileHelper:INFO]: Deleted empty folder: C:\Users\Martin a ne Lucija\IdeaProjects\demo1\build\downloads\1611913548527_7256_1
+46:16.433 [com.codeborne.selenide.drivercommands.CloseDriverCommand:INFO]: Trying to close the browser ChromeDriver ...
+46:17.303 [com.codeborne.selenide.drivercommands.CloseDriverCommand:INFO]: Closed webdriver 27 in 874 ms
+46:34.408 [com.codeborne.selenide.impl.WebDriverThreadLocalContainer:INFO]: No webdriver is bound to current thread: 1 - let's create a new webdriver
+46:34.432 [com.codeborne.selenide.impl.FileHelper:INFO]: Creating folder: C:\Users\Martin a ne Lucija\IdeaProjects\demo1\build\downloads\1611913594430_12768_1
+46:35.79 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 87.0.4280.88 (since Chrome 87 is installed in your machine)
+46:35.113 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Martin a ne Lucija\.m2\repository\webdriver\chromedriver\win32\87.0.4280.88\chromedriver.exe
+46:35.280 [com.codeborne.selenide.webdriver.AbstractDriverFactory:INFO]: Write webdriver logs to: C:\Users\Martin a ne Lucija\IdeaProjects\demo1\build\reports\tests\webdriver.1611913595279_12768_1.log
+46:42.266 [com.codeborne.selenide.webdriver.BrowserResizer:INFO]: Set browser size to 1366x768
+46:42.404 [com.codeborne.selenide.webdriver.WebDriverFactory:INFO]: BrowserName=chrome Version=87.0.4280.141 Platform=WINDOWS
+46:42.404 [com.codeborne.selenide.webdriver.WebDriverFactory:INFO]: Selenide v. 5.14.0
+46:42.404 [com.codeborne.selenide.webdriver.WebDriverFactory:INFO]: Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+46:42.405 [com.codeborne.selenide.drivercommands.CreateDriverCommand:INFO]: Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on WINDOWS (e5aa35c99456494df69476b2f23f0f3c)
+46:48.133 [com.codeborne.selenide.drivercommands.CloseDriverCommand:INFO]: Close webdriver: 27 -> ChromeDriver: chrome on WINDOWS (e5aa35c99456494df69476b2f23f0f3c)
+46:48.136 [com.codeborne.selenide.impl.FileHelper:INFO]: Deleted empty folder: C:\Users\Martin a ne Lucija\IdeaProjects\demo1\build\downloads\1611913594430_12768_1
+46:48.140 [com.codeborne.selenide.drivercommands.CloseDriverCommand:INFO]: Trying to close the browser ChromeDriver ...
+46:48.931 [com.codeborne.selenide.drivercommands.CloseDriverCommand:INFO]: Closed webdriver 27 in 796 ms
+32:19.902 [com.codeborne.selenide.impl.WebDriverThreadLocalContainer:INFO]: No webdriver is bound to current thread: 1 - let's create a new webdriver
+32:19.968 [com.codeborne.selenide.impl.FileHelper:INFO]: Creating folder: C:\Users\Martin a ne Lucija\IdeaProjects\demo1\build\downloads\1611930739951_11748_1
+32:23.624 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 87.0.4280.88 (since Chrome 87 is installed in your machine)
+32:23.664 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Martin a ne Lucija\.m2\repository\webdriver\chromedriver\win32\87.0.4280.88\chromedriver.exe
+32:23.978 [com.codeborne.selenide.webdriver.AbstractDriverFactory:INFO]: Write webdriver logs to: C:\Users\Martin a ne Lucija\IdeaProjects\demo1\build\reports\tests\webdriver.1611930743976_11748_1.log
+32:33.247 [com.codeborne.selenide.webdriver.BrowserResizer:INFO]: Set browser size to 1366x768
+32:33.402 [com.codeborne.selenide.webdriver.WebDriverFactory:INFO]: BrowserName=chrome Version=87.0.4280.141 Platform=WINDOWS
+32:33.403 [com.codeborne.selenide.webdriver.WebDriverFactory:INFO]: Selenide v. 5.14.0
+32:33.403 [com.codeborne.selenide.webdriver.WebDriverFactory:INFO]: Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+32:33.404 [com.codeborne.selenide.drivercommands.CreateDriverCommand:INFO]: Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on WINDOWS (75223085565a1a354b5e08b0f3ddfc28)
+32:35.823 [com.codeborne.selenide.impl.FileHelper:INFO]: Deleted empty folder: C:\Users\Martin a ne Lucija\IdeaProjects\demo1\build\downloads\1611930739951_11748_1
+32:35.822 [com.codeborne.selenide.drivercommands.CloseDriverCommand:INFO]: Close webdriver: 27 -> ChromeDriver: chrome on WINDOWS (75223085565a1a354b5e08b0f3ddfc28)
+32:35.835 [com.codeborne.selenide.drivercommands.CloseDriverCommand:INFO]: Trying to close the browser ChromeDriver ...
+32:37.114 [com.codeborne.selenide.drivercommands.CloseDriverCommand:INFO]: Closed webdriver 27 in 1287 ms
+33:48.372 [com.codeborne.selenide.impl.WebDriverThreadLocalContainer:INFO]: No webdriver is bound to current thread: 1 - let's create a new webdriver
+33:48.402 [com.codeborne.selenide.impl.FileHelper:INFO]: Creating folder: C:\Users\Martin a ne Lucija\IdeaProjects\demo1\build\downloads\1612175628395_8592_1
+33:51.452 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using chromedriver 88.0.4324.96 (since Chrome 88 is installed in your machine)
+33:51.498 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+33:52.487 [io.github.bonigarcia.wdm.online.Downloader:INFO]: Downloading https://chromedriver.storage.googleapis.com/88.0.4324.96/chromedriver_win32.zip
+33:54.355 [io.github.bonigarcia.wdm.online.Downloader:INFO]: Extracting binary from compressed file chromedriver_win32.zip
+33:54.473 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.chrome.driver as C:\Users\Martin a ne Lucija\.m2\repository\webdriver\chromedriver\win32\88.0.4324.96\chromedriver.exe
+33:54.604 [com.codeborne.selenide.webdriver.AbstractDriverFactory:INFO]: Write webdriver logs to: C:\Users\Martin a ne Lucija\IdeaProjects\demo1\build\reports\tests\webdriver.1612175634603_8592_1.log
+33:59.606 [com.codeborne.selenide.webdriver.BrowserResizer:INFO]: Set browser size to 1366x768
+33:59.743 [com.codeborne.selenide.webdriver.WebDriverFactory:INFO]: BrowserName=chrome Version=88.0.4324.104 Platform=WINDOWS
+33:59.744 [com.codeborne.selenide.webdriver.WebDriverFactory:INFO]: Selenide v. 5.14.0
+33:59.744 [com.codeborne.selenide.webdriver.WebDriverFactory:INFO]: Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+33:59.745 [com.codeborne.selenide.drivercommands.CreateDriverCommand:INFO]: Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on WINDOWS (a9b566d8b21563e10d53ff13a4323aba)
+34:04.782 [com.codeborne.selenide.drivercommands.CloseDriverCommand:INFO]: Close webdriver: 27 -> ChromeDriver: chrome on WINDOWS (a9b566d8b21563e10d53ff13a4323aba)
+34:04.784 [com.codeborne.selenide.impl.FileHelper:INFO]: Deleted empty folder: C:\Users\Martin a ne Lucija\IdeaProjects\demo1\build\downloads\1612175628395_8592_1
+34:04.785 [com.codeborne.selenide.drivercommands.CloseDriverCommand:INFO]: Trying to close the browser ChromeDriver ...
+34:05.575 [com.codeborne.selenide.drivercommands.CloseDriverCommand:INFO]: Closed webdriver 27 in 792 ms
